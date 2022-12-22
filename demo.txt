@@ -1,7 +1,3 @@
 some content
 
 and some content here
-
-new branch added
-
-add some more
