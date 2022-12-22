@@ -1,5 +1,7 @@
 some content
 
+
 and some content here
 
-making a conflict
+
+and some content
